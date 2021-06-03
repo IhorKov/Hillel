@@ -17,6 +17,7 @@ public class NumFubinachi {
             a += arr[0];
             arr = chagePosition(arr, a);
         }
+        System.out.println();
 
     }
     public static int[] chagePosition(int[] arr, int a){
