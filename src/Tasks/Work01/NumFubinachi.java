@@ -9,7 +9,8 @@ public class NumFubinachi {
     public static void getFubinachi(int size){
 
         int a = 1;
-        int [] arr = { 0 ,a };
+        int b = 0;
+        int [] arr = { b ,a };
 
         while (a < size) {
             System.out.println(arr[1]);
